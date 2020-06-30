@@ -1,3 +1,1 @@
-  <? php
- "O´la Wesley"
-?>
+<?php?>
